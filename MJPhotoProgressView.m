@@ -8,6 +8,7 @@
 #import "MJPhotoProgressView.h"
 
 #define kDegreeToRadian(x) (M_PI/180.0 * (x))
+//12334
 
 @implementation MJPhotoProgressView
 
